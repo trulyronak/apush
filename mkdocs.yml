@@ -1,0 +1,4 @@
+site_name: APUSH Study Guide
+pages:
+- Home: index.md
+theme: readthedocs
