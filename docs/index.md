@@ -1,17 +1,12 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+##Overview of this site
 
-## Commands
+Here you'll a review of topics in APUSH, based on <b><u>The American Pagent</u></b>, the book I use for APUSH.
+This page will be updated throughout the year, and by the end it should be complete. My notes are cause and effect
+based, meaning that I won't spend too much time on details, but on why something happened and why it's important.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+##Contributions
+Anyone is free to contribute,
+ I simply ask that you fork the <a href="https://github.com/ronakdev/apush">Github Repo</a> and follow <b>MK Docs</b>
+ guidelines when adding.

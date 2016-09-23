@@ -1,4 +1,5 @@
 site_name: APUSH Study Guide
 pages:
 - Home: index.md
+- Chapters 1-8:  chapters1-8.md
 theme: readthedocs
