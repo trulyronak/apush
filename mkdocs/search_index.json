@@ -2,23 +2,1038 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
+            "text": "Overview of this site\n\n\nHere you'll a review of topics in APUSH, based on \nThe American Pagent\n, the book I use for APUSH.\nThis page will be updated throughout the year, and by the end it should be complete. My notes are cause and effect\nbased, meaning that I won't spend too much time on details, but on why something happened and why it's important.\n\n\nContributions\n\n\nAnyone is free to contribute,\n I simply ask that you fork the \nGithub Repo\n and follow \nMK Docs\n\n guidelines when adding.", 
             "title": "Home"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
+            "location": "/#overview-of-this-site", 
+            "text": "Here you'll a review of topics in APUSH, based on  The American Pagent , the book I use for APUSH.\nThis page will be updated throughout the year, and by the end it should be complete. My notes are cause and effect\nbased, meaning that I won't spend too much time on details, but on why something happened and why it's important.", 
+            "title": "Overview of this site"
         }, 
         {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#contributions", 
+            "text": "Anyone is free to contribute,\n I simply ask that you fork the  Github Repo  and follow  MK Docs \n guidelines when adding.", 
+            "title": "Contributions"
         }, 
         {
-            "location": "/#project-layout", 
-            "text": "mkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.", 
-            "title": "Project layout"
+            "location": "/chapters1-8/", 
+            "text": "Chapters 1 - 8\n\n\nBacon's Rebellion\n\n\nOverview\n\n\nBacon's Rebellion was a rebellion in 1676 led by Nathaniel Bacon.\n\n\nCause\n\n\nThe rebellion consisted of freedmen (ex-indentured servants) who were angry that they didn't get the land that they migrated for. In addition, due to a lack of single women in the colonies, they were unable to find wives.\n\n\nEffect\n\n\nFearful for another rebellion, the landed gentry of the South (Planter Class) began looking for an alternative source of labor. They settled on Africa, thus sparking the slave trade and the South's dependence on slave labor\n\n\nJamestown\n\n\nOverview\n\n\nJamestown was the first British colony in America, founded in 1607 by the Virginia Company of England\n\n\nCause\n\n\nThe joint-stock Virginia Company founded the colony looking for gold. \n\n\nEffect\n\n\nIts charter guaranteed the overseas settlers the same rights that they would get if they stayed in England. This part of the charter was eventually extended to all of the colonies.\n\n\nPeter Stuyvesant\n\n\nOverview\n\n\nPeter Stuyvesant was a Dutch Directors-General who attacked the Swedish in New Sweden (Delaware).\n\n\nCause\n\n\nAngered that the Swedish trespassed on the Dutch preserves, the Dutch sent Peter to take out the Swedish forces in New Sweden (Delaware).\n\n\nEffect\n\n\nThe colonists of old New Sweden were absorbed into the New Netherlands, and the colony eventually became Delaware)\n\n\nNew England Confederation\n\n\nOverview\n\n\nFounded in 1643 by the colonists of the Massachusets Bay Colonies and the Connecticut Colonies.\n\n\nCause\n\n\nThe Confederation was formed during the English Civil War, in order to defend themselves against the Indians, French, and Dutch. Each colony only had two votes, which angered the populous Massachusets Colony. \n\n\nEffect\n\n\nWhile it was extremely weak and Puritan exclusive, the Confederation was the first considerable milestone to colonial unity. From 1640-1660, when England went through its Civil War, the colonies operated on autonomy, which resulted in a independent culture in the Americas.  The Confederation was disbanded in the 1660s, when King Charles II took power. (Replaced with Dominion of New England)\n\n\nDominion of New England\n\n\nOverview\n\n\nThe Dominion of New England included New England, New York, and East and West Jersey\n\n\nCause\n\n\nIn 1686, royal authority created the Dominion of New England to promote efficiency in the administration of the English Navigation Laws. This was part of an effort by the monarchy to tie the colonies closer to the motherland by restricting trade with only England. The Dominion was lead by Sir Edmund Andros, who heavily taxed the people and enforced the hated Navigation Laws, nearly caused a revolt within the colonies. The Dominion was disbanded after the Glorious Revolution in England of 1689.\n\n\nEffect\n\n\nAs a result of these laws, colonists turned to smuggling and colonists began to share similar sentiments against England.\n\n\nGreat Puritan Migration\n\n\nOverview\n\n\nMost likely a typo for great \"english\" migration.\n\n\nCause\n\n\nEffect\n\n\nThe Half-Way Covenant and the Salem Witch Trials\n\n\nOverview\n\n\nThe Salem Witch Trials were trials held across New England settlements prosecuting 'witches', who were actually mostly women from commerical families.\n\n\nIn the mid-seventeenth century, preachers began preaching jermiads, worried by declining religios devotion. In 1662, ministers announced the \nHalf Way Covenant\n, which was a new form of Church membership that allowed the baptism of non-converted members.     \n\n\nAs a result of expanding Puritan membership, the link between the elect and the others broke, which further diluted the spiritual purity from the original Puritans. This eventually led to the Puritan Church opening its doors to everyone, led to and end of strict religious purity. Also led to an increase of women in the Puritan congregation, who came to make up the majority of churchgoers. This eventually lead into the Salem Witch trials, where most of the accused women came from Salem's growing market economy and the accusers came from the farming families in Salem. They reflected the widening social gaps of New England and the fear that Puritan Heritage was dying out to Yankee commericalism.\n\n\nHeadright System\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nIndentured Servant\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nTriangular Trade\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nGeorge Whitefield\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nWilliam Pitt\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nTreaty of Paris\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nAlbany Congress 1754\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nMercantilism\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nQuartering Act 1765\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nCommittees of Correspondence\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nSamuel Adams\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nStamp Act 1765\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nBoston Massacre\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nQuebec Act\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nJohn Hancock\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nBunker Hill\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nBattle of Saratoga\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nThe Declaration of Independence\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nThe establishment of the colonies\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nCalvinism-Puritanism\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nEthnic, religious, social diversity in the colonies\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nImportance of the French and Indian War\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nJohn Rolfe\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nJohn Smith\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nJohn Winthrop\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nRoger Williams\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nWilliam Penn\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nMiddle Passage\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nHalf Way Covenant\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nFirst Great Awakening\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nJonathan Edwards\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nBattle of Quebec\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nProclamation of 1763\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nSalutary Neglect\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nSugar Act 1764\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nTownshend Acts\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nIntolerable Acts\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nLexington/Concord\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nDeclatory Act 1766\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nBoston Tea Party\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nThe Association\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nThomas Paine\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nYorktown\n\n\nOverview\n\n\nCause\n\n\nEffect\n\n\nFirst Continental Congress\n\n\nOverview\n\n\nCause\n\n\nEffect", 
+            "title": "Chapters 1-8"
+        }, 
+        {
+            "location": "/chapters1-8/#chapters-1-8", 
+            "text": "", 
+            "title": "Chapters 1 - 8"
+        }, 
+        {
+            "location": "/chapters1-8/#bacons-rebellion", 
+            "text": "", 
+            "title": "Bacon's Rebellion"
+        }, 
+        {
+            "location": "/chapters1-8/#overview", 
+            "text": "Bacon's Rebellion was a rebellion in 1676 led by Nathaniel Bacon.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause", 
+            "text": "The rebellion consisted of freedmen (ex-indentured servants) who were angry that they didn't get the land that they migrated for. In addition, due to a lack of single women in the colonies, they were unable to find wives.", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect", 
+            "text": "Fearful for another rebellion, the landed gentry of the South (Planter Class) began looking for an alternative source of labor. They settled on Africa, thus sparking the slave trade and the South's dependence on slave labor", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#jamestown", 
+            "text": "", 
+            "title": "Jamestown"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_1", 
+            "text": "Jamestown was the first British colony in America, founded in 1607 by the Virginia Company of England", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_1", 
+            "text": "The joint-stock Virginia Company founded the colony looking for gold.", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_1", 
+            "text": "Its charter guaranteed the overseas settlers the same rights that they would get if they stayed in England. This part of the charter was eventually extended to all of the colonies.", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#peter-stuyvesant", 
+            "text": "", 
+            "title": "Peter Stuyvesant"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_2", 
+            "text": "Peter Stuyvesant was a Dutch Directors-General who attacked the Swedish in New Sweden (Delaware).", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_2", 
+            "text": "Angered that the Swedish trespassed on the Dutch preserves, the Dutch sent Peter to take out the Swedish forces in New Sweden (Delaware).", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_2", 
+            "text": "The colonists of old New Sweden were absorbed into the New Netherlands, and the colony eventually became Delaware)", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#new-england-confederation", 
+            "text": "", 
+            "title": "New England Confederation"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_3", 
+            "text": "Founded in 1643 by the colonists of the Massachusets Bay Colonies and the Connecticut Colonies.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_3", 
+            "text": "The Confederation was formed during the English Civil War, in order to defend themselves against the Indians, French, and Dutch. Each colony only had two votes, which angered the populous Massachusets Colony.", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_3", 
+            "text": "While it was extremely weak and Puritan exclusive, the Confederation was the first considerable milestone to colonial unity. From 1640-1660, when England went through its Civil War, the colonies operated on autonomy, which resulted in a independent culture in the Americas.  The Confederation was disbanded in the 1660s, when King Charles II took power. (Replaced with Dominion of New England)", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#dominion-of-new-england", 
+            "text": "", 
+            "title": "Dominion of New England"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_4", 
+            "text": "The Dominion of New England included New England, New York, and East and West Jersey", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_4", 
+            "text": "In 1686, royal authority created the Dominion of New England to promote efficiency in the administration of the English Navigation Laws. This was part of an effort by the monarchy to tie the colonies closer to the motherland by restricting trade with only England. The Dominion was lead by Sir Edmund Andros, who heavily taxed the people and enforced the hated Navigation Laws, nearly caused a revolt within the colonies. The Dominion was disbanded after the Glorious Revolution in England of 1689.", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_4", 
+            "text": "As a result of these laws, colonists turned to smuggling and colonists began to share similar sentiments against England.", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#great-puritan-migration", 
+            "text": "", 
+            "title": "Great Puritan Migration"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_5", 
+            "text": "Most likely a typo for great \"english\" migration.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_5", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_5", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#the-half-way-covenant-and-the-salem-witch-trials", 
+            "text": "", 
+            "title": "The Half-Way Covenant and the Salem Witch Trials"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_6", 
+            "text": "The Salem Witch Trials were trials held across New England settlements prosecuting 'witches', who were actually mostly women from commerical families.  In the mid-seventeenth century, preachers began preaching jermiads, worried by declining religios devotion. In 1662, ministers announced the  Half Way Covenant , which was a new form of Church membership that allowed the baptism of non-converted members.       As a result of expanding Puritan membership, the link between the elect and the others broke, which further diluted the spiritual purity from the original Puritans. This eventually led to the Puritan Church opening its doors to everyone, led to and end of strict religious purity. Also led to an increase of women in the Puritan congregation, who came to make up the majority of churchgoers. This eventually lead into the Salem Witch trials, where most of the accused women came from Salem's growing market economy and the accusers came from the farming families in Salem. They reflected the widening social gaps of New England and the fear that Puritan Heritage was dying out to Yankee commericalism.", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#headright-system", 
+            "text": "", 
+            "title": "Headright System"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_7", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_6", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_6", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#indentured-servant", 
+            "text": "", 
+            "title": "Indentured Servant"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_8", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_7", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_7", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#triangular-trade", 
+            "text": "", 
+            "title": "Triangular Trade"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_9", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_8", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_8", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#george-whitefield", 
+            "text": "", 
+            "title": "George Whitefield"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_10", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_9", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_9", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#william-pitt", 
+            "text": "", 
+            "title": "William Pitt"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_11", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_10", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_10", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#treaty-of-paris", 
+            "text": "", 
+            "title": "Treaty of Paris"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_12", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_11", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_11", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#albany-congress-1754", 
+            "text": "", 
+            "title": "Albany Congress 1754"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_13", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_12", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_12", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#mercantilism", 
+            "text": "", 
+            "title": "Mercantilism"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_14", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_13", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_13", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#quartering-act-1765", 
+            "text": "", 
+            "title": "Quartering Act 1765"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_15", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_14", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_14", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#committees-of-correspondence", 
+            "text": "", 
+            "title": "Committees of Correspondence"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_16", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_15", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_15", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#samuel-adams", 
+            "text": "", 
+            "title": "Samuel Adams"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_17", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_16", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_16", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#stamp-act-1765", 
+            "text": "", 
+            "title": "Stamp Act 1765"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_18", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_17", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_17", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#boston-massacre", 
+            "text": "", 
+            "title": "Boston Massacre"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_19", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_18", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_18", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#quebec-act", 
+            "text": "", 
+            "title": "Quebec Act"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_20", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_19", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_19", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#john-hancock", 
+            "text": "", 
+            "title": "John Hancock"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_21", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_20", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_20", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#bunker-hill", 
+            "text": "", 
+            "title": "Bunker Hill"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_22", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_21", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_21", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#battle-of-saratoga", 
+            "text": "", 
+            "title": "Battle of Saratoga"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_23", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_22", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_22", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#the-declaration-of-independence", 
+            "text": "", 
+            "title": "The Declaration of Independence"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_24", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_23", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_23", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#the-establishment-of-the-colonies", 
+            "text": "", 
+            "title": "The establishment of the colonies"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_25", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_24", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_24", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#calvinism-puritanism", 
+            "text": "", 
+            "title": "Calvinism-Puritanism"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_26", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_25", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_25", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#ethnic-religious-social-diversity-in-the-colonies", 
+            "text": "", 
+            "title": "Ethnic, religious, social diversity in the colonies"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_27", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_26", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_26", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#importance-of-the-french-and-indian-war", 
+            "text": "", 
+            "title": "Importance of the French and Indian War"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_28", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_27", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_27", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#john-rolfe", 
+            "text": "", 
+            "title": "John Rolfe"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_29", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_28", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_28", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#john-smith", 
+            "text": "", 
+            "title": "John Smith"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_30", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_29", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_29", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#john-winthrop", 
+            "text": "", 
+            "title": "John Winthrop"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_31", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_30", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_30", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#roger-williams", 
+            "text": "", 
+            "title": "Roger Williams"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_32", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_31", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_31", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#william-penn", 
+            "text": "", 
+            "title": "William Penn"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_33", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_32", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_32", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#middle-passage", 
+            "text": "", 
+            "title": "Middle Passage"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_34", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_33", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_33", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#half-way-covenant", 
+            "text": "", 
+            "title": "Half Way Covenant"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_35", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_34", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_34", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#first-great-awakening", 
+            "text": "", 
+            "title": "First Great Awakening"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_36", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_35", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_35", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#jonathan-edwards", 
+            "text": "", 
+            "title": "Jonathan Edwards"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_37", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_36", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_36", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#battle-of-quebec", 
+            "text": "", 
+            "title": "Battle of Quebec"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_38", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_37", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_37", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#proclamation-of-1763", 
+            "text": "", 
+            "title": "Proclamation of 1763"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_39", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_38", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_38", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#salutary-neglect", 
+            "text": "", 
+            "title": "Salutary Neglect"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_40", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_39", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_39", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#sugar-act-1764", 
+            "text": "", 
+            "title": "Sugar Act 1764"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_41", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_40", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_40", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#townshend-acts", 
+            "text": "", 
+            "title": "Townshend Acts"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_42", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_41", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_41", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#intolerable-acts", 
+            "text": "", 
+            "title": "Intolerable Acts"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_43", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_42", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_42", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#lexingtonconcord", 
+            "text": "", 
+            "title": "Lexington/Concord"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_44", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_43", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_43", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#declatory-act-1766", 
+            "text": "", 
+            "title": "Declatory Act 1766"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_45", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_44", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_44", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#boston-tea-party", 
+            "text": "", 
+            "title": "Boston Tea Party"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_46", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_45", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_45", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#the-association", 
+            "text": "", 
+            "title": "The Association"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_47", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_46", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_46", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#thomas-paine", 
+            "text": "", 
+            "title": "Thomas Paine"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_48", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_47", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_47", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#yorktown", 
+            "text": "", 
+            "title": "Yorktown"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_49", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_48", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_48", 
+            "text": "", 
+            "title": "Effect"
+        }, 
+        {
+            "location": "/chapters1-8/#first-continental-congress", 
+            "text": "", 
+            "title": "First Continental Congress"
+        }, 
+        {
+            "location": "/chapters1-8/#overview_50", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/chapters1-8/#cause_49", 
+            "text": "", 
+            "title": "Cause"
+        }, 
+        {
+            "location": "/chapters1-8/#effect_49", 
+            "text": "", 
+            "title": "Effect"
         }
     ]
 }
