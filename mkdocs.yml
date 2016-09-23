@@ -3,3 +3,9 @@ pages:
 - Home: index.md
 - Chapters 1-8:  chapters1-8.md
 theme: readthedocs
+repo_url: https://github.com/ronakdev/apush
+site_url: http://ronakshah.net/apush
+site_author: Ronak Shah
+copyright: © Ronak Shah
+
+
