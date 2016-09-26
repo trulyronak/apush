@@ -1,0 +1,2 @@
+rm mkdocs.yml
+cp readthedocs.yml mkdocs.yml

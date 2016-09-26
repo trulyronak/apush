@@ -95,85 +95,92 @@ Led to an even more increased reliance on agriculture in the South. Eventually, 
 ##Triangular Trade
 
 ###Overview
+The trade between New England, Africa, and the West Indies.
 
-###Cause
-
-###Effect
+New England gave rum, Africa took the rum for slaves, the West Indies gave molasses for the slaves, and the molasses went to New England for more rum.
 
 
-## George Whitefield
+
+## The Great Awakening and George Whitefield
 
 ###Overview
 
+George Whitefiled was a famous preacher during the Great Awakening, and represented the ideas of great emotional preaching during the time.
+
 ###Cause
+In the early 18th century, religion was sagging in the colonies. The Puritans in particular, were fighting against liberal ideas that suggested that not just the 'elect' get to go to heaven. **Arminianism**, the theology preached by Jacobus Arminius, preached that an individual's free will determined a person's eternal fate, and that all humans, not just the elect, could go to heaven if they accepted God's grace. A few Puritan churches accepted this, leading into more emotional packed sermons, also known as the **Great Awakening**.
 
 ###Effect
-
+The Awakening's emphasis on direct, emotional spirituality damaged the authority of the older clergy, who had relied on their education for their authority. This lead to many more different churches and schisms in the religion. It also lead to the creation of American colleges like Princeton and Brown and others to promote higher learning and clergy training. Most importantly, the Awakening was the first mass movement of the American people, that united many of the American people.
 
 ##William Pitt
 
 ###Overview
-
-###Cause
+Also known as "The Great Commoner", William Pitt was a leader who in 1757 took power in the London government. Pitt's efforts ultimately resulted in victory in the French and Indian war.
 
 ###Effect
-
+The end of the war resulted in Spain and England taking all of French territory, and England taking Spain, resulting in England as the dominant power in North America and as the leading naval power in the World.
 
 ##Treaty of Paris
 
 ###Overview
+Signed in 1783, the Treaty of Paris officially ended the Revolutionary War.
 
 ###Cause
-
+After the battle of Yorktown, the British were finally forced to draw an end to the war.
 ###Effect
+The terms of the treaty were as followed:
+
+- The US gets all land from Mississippi (Western boundary) to the Great Lakes (Northern boundary) to Spanish Florida (Southern boundary).
+- America holds a share in the fisheries of Newfoundland (angered Canada)
+- Congress must recommend state legislatures to return confiscated Loyalist property
+- The states must not put any legal obstacles in paying off debt
 
 
 ##Albany Congress 1754
 
 ###Overview
-
-###Cause
+Congress summoned by the British government to (short-term) keep the Iroquois loyal to the British and (long-term) unite the colonies together to create a common defense against the French.
 
 ###Effect
 
+Another attempt for colonial unity, 7/13 colonies showed up.
 
 ##Mercantilism
 
 ###Overview
-
-###Cause
+The belief that a country's military and political power was measured by its wealth which was measured by the amount of gold or silver a country had. To acquire gold or silver a country needed to **export more than it imported**. Thus, owning colonies were strategic as they could supply raw materials and a guaranteed market to export to.
 
 ###Effect
+As a result, the London government treated the Americans as tenants, and initially enforced laws like the Navigation Acts of 1650 to keep colonials only trading with Britain. However, the colonies eventually became so prosperous that the British stoppped bothering to enforce these laws as they were profitting so heavily off of colonial trade. However after the French and Indian War, the British treasury went bankrupt, forcing the British to enforce the laws again. This angered the colonials as they had been used to self-government under British **salutary neglect**.
 
-
-##Quartering Act 1765
+##Acts of 1764-65
 
 ###Overview
 
-###Cause
+####Sugar Act (1764)
+Increased duty tax on sugar imported form the West Indies.
+Offenders of this act and the stamp act were forced to appear in **admirality courts** where juries were not allowed, and defendants were "guilty until proven innocent"
 
-###Effect
+####Quartering Act (1765)
+
+Law that forced the colonials (mostly in New England) to house British troops.
+
+###Stamp Act (1765)
+Tax on stamps, mostly effected the wealthy, Samuel Adams incited colonials "No Taxation without representation"
+Led to Stamp Act Congress of 1765
+
+###Stamp Act Congress
+9 colonies sent representatives, decided on **nonimportation agreements** against British goods. (Common boycott from the colonies against British goods)
 
 
 ## Committees of Correspondence
 
 ###Overview
-
-###Cause
-
-###Effect
+Organized by Samuel Adams, the first in 1772 Boston. They kept the British opposition alive and gave Adams a network to spread propoganda.
 
 
-## Samuel Adams
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Stamp Act 1765
+## Samuel Adams <- Get back to him
 
 ###Overview
 
@@ -185,58 +192,47 @@ Led to an even more increased reliance on agriculture in the South. Eventually, 
 ##Boston Massacre
 
 ###Overview
-
-###Cause
-
-###Effect
-
+In 1770, a clash between 60 townspeople and a squad of 10 redcoats led to 11 casualities. Samuel Adams called on Paul Revere to make an engraving of the incident and Adams circulated these all across the colonies, sparking anger against the British governments.
 
 ##Quebec Act
 
 ###Overview
-
-###Cause
-
+Passed with the **Intolerable Acts of 1774**, the Quebec Act was actually a good law. The law gave the French Canadians the right to Catholicism and the right to keep their old customs and instituions (which didn't allow trial by jury). Additionally, the law gave the province of Quebec the Ohio River as its new Southern boundary.
 ###Effect
-
+American colonists were angered that the Canadians got land that they had planned to move into, and angered Anti-Catholics.
 
 ##John Hancock
 
 ###Overview
+Samuel Adams' financial backer. A <del>trader</del> smuggler, Hancock was angered by British when they began enforcing the Navigation Acts (anti-smuggling) the Stamp Acts (caused him to pay more on imports) and others. He found Adams interesting as he was a great organizer, and Hancock decided to back him and his rebel group **The Sons of Liberty**.
 
-###Cause
-
-###Effect
-
-
-##Bunker Hill
+##Bunker Hill (1775)
 
 ###Overview
-
-###Cause
+The first battle of the Revolutionary War, colonists seized Bunker Hill (Breed's Hill at the time) and mowed down advancing redcoats.
 
 ###Effect
-
+The French began to look at the colonists as an actual force, King George abandoned all hope of reconcilliation (Despite the July 1775 **Olive Branch Petition**), and hired thousands of German troops (Hessians) in addition to British troops to fight the war in America. The hiring of German troops shocked the colonists, who felt that the war was a "family matter".
 
 ##Battle of Saratoga
 
 ###Overview
-
+On October 17, 1777, British General John Burgoyne surrendered to American General Horatio Gates
 ###Cause
-
+Explain this later, its pretty complicated
 ###Effect
+At this point, the French were just waiting for one big victory by the colonists before they sent troops; this battle did that, and allowed Americans to get foreign aid. The victory itself was also an immense morale booster, and revived the faltering colonial cause.
 
-
-##The Declaration of Independence
+##The Declaration of Independence (July 4, 1776)
 
 ###Overview
-
-###Cause
+Also known as "Jefferson's explanation of Independence", this document was formal declaration of **Richard Henry Lee**'s resolution.
 
 ###Effect
+Appealed universally and gave a long list of reasons on why the colonies were leaving, primarily to inform the French that they had nothing to fear in helping the colonies win independence.
 
 
-##The establishment of the colonies
+##The Establishment of the Colonies
 
 ###Overview
 
@@ -275,37 +271,36 @@ Led to an even more increased reliance on agriculture in the South. Eventually, 
 ##John Rolfe
 
 ###Overview
-
-###Cause
+Father of the tobacco industry and the economic savior of Virginia. Also husband to Pocahontas.
 
 ###Effect
-
+By 1612, Rolfe had perfected methods of raising tobacco, and started selling it to Europe. Soon, the demand became so strong that almost all colonists switched to growing tobacco and began looking for more land. This led to more expansion against Native American land. Also led to higher demand for labor, which was first supplied by Indentured Servants, and eventually (after Bacon's Rebellion), African slaves.
 
 ## John Smith
 
 ###Overview
-
-###Cause
-
-###Effect
-
+Captain John Smith was an early savior of the Virgina colony. He turned the inital colonists from gold hungry colonists to look for food and start farming.
 
 ##John Winthrop
-
+The Massachusetts Bay Colony's first Governor.  
 ###Overview
 
-###Cause
-
-###Effect
-
+Very religious, propelled Massechusetts as a beacon to humanity and a model, religious society. Made the colony one of the biggest and most influential of the New England Outposts. Made Massachusetts into a fur trading, fishing and primarily, shipbuilding industry powerhouse.
 
 ## Roger Williams
 
 ###Overview
+Popular Salem minister who challenged the Bay Colony's charter and Puritan values.
 
-###Cause
+- Denied authority of civil government to regulate relgious behavior (the fundemental construct of Puritan society)
+- Challenged the colony's stealing of land from Indians
 
 ###Effect
+Kicked out of Massachusetts in 1635, Williams fled to the Rhode Island area in 1636, and built a Baptist church. Established complete freedom of religion, even for Jews and Catholics. Demanded no oaths regarding religous beliefs, no taxes for a state church, and even sheltered the Quakers.
+
+Also gave universal suffrage (though property requirements eventually were added).
+
+Made Rhode Island as the most liberal and advanced of all settlements in the New World and Old World alike.
 
 
 ##William Penn
@@ -318,24 +313,6 @@ Led to an even more increased reliance on agriculture in the South. Eventually, 
 
 
 ##Middle Passage
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Half Way Covenant
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##First Great Awakening
 
 ###Overview
 
