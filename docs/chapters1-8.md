@@ -259,14 +259,6 @@ Appealed universally and gave a long list of reasons on why the colonies were le
 ###Effect
 
 
-##Importance of the French and Indian War
-
-###Overview
-
-###Cause
-
-###Effect
-
 
 ##John Rolfe
 
@@ -306,118 +298,99 @@ Made Rhode Island as the most liberal and advanced of all settlements in the New
 ##William Penn
 
 ###Overview
-
-###Cause
-
-###Effect
-
+Quaker Englishman who founded the colony of Pennsylvannia in 1681. Bought land from Indians (as opposed to stealing, like most other colonies) and organized his cities. Had an unusually liberal regime included a representative assembly elected by landowners. There was no tax-supported church, and freedom of religion was granted to all settlers, though England forced Penn to deny Catholics and Jews the right to vote or hold office. There was no military, no restrictions on immigration, and naturalization was an easy process. The Quakers disliked slavery and Pennsylvania promoted a modern atmosphere giving economic opportunity, civil liberty, and religious freedom. 
 
 ##Middle Passage
 
 ###Overview
-
-###Cause
-
-###Effect
-
+The passage where slaves were transported across, in cruel conditions. Africans were mostly sold to Newport, Rhode Island, or Charleston, South Carolina.
 
 ##Jonathan Edwards
 
 ###Overview
+Ignited the Great Awakening. Believed in salvation through good works and was fairly popular, but was overshadowed by Whitefield 4 years later.
 
-###Cause
-
-###Effect
-
-
-##Battle of Quebec
+##Battle of Quebec 1759
 
 ###Overview
-
-###Cause
-
-###Effect
-
+Marked the end of the French and Indian War. 
 
 ##Proclamation of 1763
 
 ###Overview
-
-###Cause
+Prohibited settlement in the area beyond the Appalachian moutains.
+Issued by the British government in oreder to work out the Indian problem and prevent another revolt like Pontiac's Uprising.
 
 ###Effect
-
+Angered Americans who thought they had won that land after winning the French and Indian War and after crushing Pontiac's Uprising, several expanded into prohibitted areas anyways.
+ Marked more splitting with British policy by the colonists.
 
 ##Salutary Neglect
 
 ###Overview
-
-###Cause
-
-###Effect
-
-
-##Sugar Act 1764
-
-###Overview
-
-###Cause
+A period of time from 1714-1763 when England didn't enforce many of its laws (Navigation Laws and Taxes). Arguably in effect since 1607.
 
 ###Effect
-
+The Americans became increasing self-reliant and resistant to taxes, causing problems after the French and Indian War (1763) when the British needed the colonists to help pay off debt from the war.
 
 ##Townshend Acts
 
 ###Overview
-
-###Cause
+Passed in 1767 by efforts from Charles Townshend.
 
 ###Effect
+The Acts added a duty on glass, white lead, paper, paint, and tea. Made the taxes an indirect customs duty. However, the colonists were mostly just angry at being taxed without representation. 
 
+Also, since the tax income was meant to be used to pay the salaries of the royal governors (The Americans had long since been controlling Royal Governors through their salaries) the colonists saw this as another attempt to control them. 
 
-##Intolerable Acts
+Led to more smuggling and nonimportation agreements (Similar to those passed by the Stamp Act Congress) which lead to the British sending more troops to the colonies to keep law and order. (eventually led to Boston Massacre).
+
+##Intolerable Acts of 1774
 
 ###Overview
+After the Boston Tea Party, Parliament responded with these Acts in an attempt to deal with the situation.
 
-###Cause
+Acts: 
+
+- Boston Port Act: Closed the harbor until damages were paid back
+	- Restrictions were also placed on local town meetings
+- Quartering Act: Gave local authorities power to lodge British soldiers anywhere, even in private homes
+- Quebec Act: <a href="#quebec-act">More Information</a>
 
 ###Effect
-
+Considered as the massacre of American Liberty. Also led to <a href="#first-continental-congress">The First Continental Congress</a> in 1774. 
 
 ##Lexington/Concord
 
 ###Overview
+In response to the Association, the British commander in Boston sent troops in April 1775 to Lexington and Concord to steal colonial gunpoweder and capture Samuel Adams and John Hancock.
 
-###Cause
+At Lexington, a group of <i>Minute Men</i> tried and failed to stop the British, resulted in 8 dead Americans. However, the British were forced to retreat at Concord, where a large force of Americans dealt 300 casualties to the British.
 
 ###Effect
+Effectively started the revolutionary war. 
 
 
 ##Declatory Act 1766
 
-###Overview
 
 ###Cause
+After withdrawing the Stamp Act, Parliament passed the Declatory Act which reaffirmed Parliaments right to bind the colonies in all cases. Effectively stated that the British government would not tield its control over its colonies.
 
 ###Effect
-
+Set the stage of a continuing confrontation between the colonists and the British.
 
 ##Boston Tea Party
 
-###Overview
-
 ###Cause
-
+In 1773, the British East India Company, facing bankruptcy, was given a monopoly of the American tea buisness. The corporation sold tea to the colonies at a cheaper rate than before, even with taxes. This angered John Hancock in particular, who was unable to sell his tea anymore. He and Saumel Adams rallied colonists against this, seeing it as a disguised tax. Thus, on December 16, 1773, colonists attacked tea ships in Boston Harbor and poured out all the tea into the harbor.
 ###Effect
-
+Resulted in the <a href="#intolerable-acts-of-1774">Intolerable Acts</a>
 
 ##The Association
 
 ###Overview
-
-###Cause
-
-###Effect
+Called for a complete boycott of British goods. A combination of nonimportation, nonexportation, and nonconsumption. However, this was not a call for independence, instead, the colonists simply wanted to call of the offensive taxation and return to the state of America before the French and Indian War.
 
 
 ##Thomas Paine
@@ -429,19 +402,22 @@ Made Rhode Island as the most liberal and advanced of all settlements in the New
 ###Effect
 
 
-## Yorktown
+## Yorktown 1781
 
 ###Overview
-
+Decisive victory that effectively ended the Revolutionary War. 
 ###Cause
-
+Cornwallis had retreated into the Chesapeake Bay at Yorktown at one of the few times during the war when the French controlled the seas. Admiral de Grasse covered the seas, General Washington and French General Rochambeau assaulted Cornwallis on land, forcing him to surrender on October 19, 1781.
 ###Effect
+See the <a href="#treaty-of-paris">Treaty of Paris</a>
 
 
 ##First Continental Congress
 
 ###Overview
-
-###Cause
+12/13 colonies met to address colonial grievances. Acted as a consultative body to decide what to do about the Intolerable Acts.
 
 ###Effect
+John and Samuel Adams moved a proposal for American home rule under British direction. The Congress also drew up several papers, including the Declaration of Rights and appeals to other colonies, the king, and the British people.
+
+The biggest action was the creation of <a href="#the-association">The Association</a>
