@@ -10,8 +10,8 @@ pages:
 - Chapters 1-8:  chapters1-8.md
 
 # Repository
-repo_name: 'GitHub'
-repo_url: 'https://github.com/ronakdev/apush'
+#repo_name: 'GitHub'
+#repo_url: 'https://github.com/ronakdev/apush'
 
 # Copyright
 copyright: © Ronak Shah
@@ -22,7 +22,7 @@ theme: 'material'
 # Options
 extra:
   palette:
-    primary: 'indigo'
+    primary: 'blue red'
     accent: 'light blue'
   font:
     text: 'Roboto'
