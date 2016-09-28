@@ -20,6 +20,7 @@ copyright: © Ronak Shah
 theme: 'material'
 
 # Options
+extra_javascript: ['/javascripts/jquery.js', '/javascripts/scroll.js']
 extra:
   palette:
     primary: 'blue red'
