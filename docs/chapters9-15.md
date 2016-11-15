@@ -1,23 +1,24 @@
 
-##Land Ordnance of 1785 
+## Land Ordinance of 1785 
 
-###Overview
+### Overview
+Law that said the land of the old NW should be used to help pay off the national debt. Saod that the land would be divided into townships (and the 16th section of each town was to be made a school). 
 
-###Cause
+### Related: Northwest Ordinance of 1787
+Set rules for how a state could join the Union.
+- Solved the problem that kings were trying to solve for a while
 
-###Effect
+Said that a state could join if:
+1. It started off as a territory 
+2. The territory gained 60,000 inhabitants
 
+Important: The law also forbade slavery in the Old Northwest
 
-##Shays Rebellon
+### Effect
+Saved America from another revolution, but from the West against the East.
+- If America had attempted to chain new territories in permanent subordination, there would have been an early CW
 
-###Overview
-
-###Cause
-
-###Effect
-
-
-## Vrgna Plan 
+## Virginia Plan 
 
 ###Overview
 
@@ -995,4 +996,3 @@
 ###Cause
 
 ###Effect
-
