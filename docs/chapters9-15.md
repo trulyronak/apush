@@ -1,4 +1,3 @@
-
 ## Land Ordinance of 1785 
 
 ### Overview
@@ -15,79 +14,79 @@ Said that a state could join if:
 Important: The law also forbade slavery in the Old Northwest
 
 ### Effect
-Saved America from another revolution, but from the West against the East.
+Saved America from another revolution, (The West against the East)
 - If America had attempted to chain new territories in permanent subordination, there would have been an early CW
 
 ## Virginia Plan 
+### Overview
+Reprentation in Congress should be based on represetntation. This conflicted directly with the **New Jersey Plan**, which called for equal represntation in Congress. 
 
-###Overview
+### Effect
+The Great Compromise resulted in a bi-cameral legislature, in which there would be a Senate in which all states have equal representation and a House of Representatives where states would send delegates based on population.
 
-###Cause
+## Federalists 
 
-###Effect
+### Overview
+Believed in a strong federal government, supported the constitution. Eventually died out after the election of Thomas Jefferson. Their chief rival, the Anti-Federalists, evolved into the Jeffersonian Democratic-Republican party.
 
+### Important Federalists
+- Alexander Hamilton -  Leader of the Party
+- George Washington - Though not officially a federalist, he backed most Federalist ideas as president
+- John Marshall - 4th Chief Justice of the US, kept Federalist ideas alive and well through the Supreme Court even when the Federalist Party was dead
+- James Madison - Wrote the Constituion, but became a Democratic-Republican later
+- John Adams -  2nd President of the USA, had a very unpopular presidency but his Federalist actions may have saved the country (Looking at you, early war with France)
+- John Jay - 1st Chief Justice
 
-## Federalsts 
+## The Federalist Papers 
 
-###Overview
+### Overview
+Collection of essays that discuss the need for the Constituion. They also explain how the Constituion will work, and are used to this day to interpret the Constitution
+### Authors
+- Alexander Hamilton
+- John Jay
+- James Madison
 
-###Cause
+## Whiskey Rebellon 1794
 
-###Effect
+### Overview
+Rebellion by poor famers against the federal government
+### Cause
+As part of his financial plan, implemented an excise tax on whiskey, which hurt many in south-western Pennsylvania. The people there felt the tax was being imposed on a economic necesity (as whiskey was used as a form of payment). The protesters tarred and feathered revenue officers just as the original Revolutionaries had done.
+### Effect
+Washington, not tolerating these "self-created societies", with Hamilton's encouragement, called up the militias of many states and crushed the rebellion. By using such a force, Washington gained a new respect for his government - but also some criticism at such massive use of force.
 
+## Hamilton and the Bank of the US 
 
-## The Federalst Papers 
+### Overview
+Hamilton proposed a bank for the us that would be a powerful private institution of which the government would be the major stock holder and in which the Federal Treasury would deposit excess money. Thus, the central government would have a strongbox and also stimulate buisness by being in circulation. In addition, the bank would be able to print needed paper money.
 
-###Overview
+Jefferson opposed completely, and said that only the states could charter banks (literal interpretation of the Constitution). Hamilton however, argued that Congress can pass out any laws to carry out the powers vested in various government agencies (Article I, Section VIII, Paragraph 18). Essentially, Hamilton argued that government had the power to collect taxes and regulate trade, and thus they could create this Bank. 
 
-###Cause
+## Jay's Treaty 
 
-###Effect
+### Overview
 
+### Cause
 
-##Whskey Rebellon 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Hamlton and the Bank of US 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Jays Treaty 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Washngtons Farewell
-
-###Overview
-
-###Cause
-
-###Effect
+### Effect
 
 
-## Alen and Sedton Acts 
+## Washington's Farewell
 
-###Overview
+### Overview
 
-###Cause
+### Cause
 
-###Effect
+### Effect
+
+
+## Alien and Sedton Acts 
+
+### Overview
+
+### Cause
+
+### Effect
 
 
 ## Kentucky & Vrgna Resolves
