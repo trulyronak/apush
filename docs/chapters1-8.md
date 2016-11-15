@@ -1,6 +1,3 @@
-#Chapters 1 - 8
-
-
 ##Jamestown 1607
 
 ###Overview
@@ -379,7 +376,7 @@ American colonists were angered that the Canadians got land that they had planne
 ###Effect
 John and Samuel Adams moved a proposal for American home rule under British direction. The Congress also drew up several papers, including the Declaration of Rights and appeals to other colonies, the king, and the British people.
 
-The biggest action was the creation of <a href="#the-association">The Association</a>
+The biggest action was the creation of <a href="#the-association-1774">The Association</a>
 
 
 ##The Association 1774

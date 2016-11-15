@@ -1,8 +1,10 @@
 #Converts List of Documents to Markdown File Ready To Edit
+import sys
 
-with open("topics.txt") as f:
+file = sys.argv[1]
+with open(file) as f:
     content = f.readlines()
-print content
+#print content
 
 newFile = ""
 for topic in content:
@@ -10,6 +12,8 @@ for topic in content:
     newFile += topic
     newFile += "\n###Overview\n\n###Cause\n\n###Effect\n\n"
 
-file = open("output.md", "w")
+file = file.replace(".txt", "")
+fileName = file + "-output.md"
+file = open(fileName, "w")
 file.write(newFile)
 file.close()

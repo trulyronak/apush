@@ -12,3 +12,6 @@ Anyone is free to contribute,
  guidelines when adding.
 
 
+!!! warning "Don't Share This With Anyone!"
+
+Until AP Tests, in order to keep the curve in our favor, we need to make sure that this resource is not publicized
