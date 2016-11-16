@@ -8,6 +8,7 @@ Set rules for how a state could join the Union.
 - Solved the problem that kings were trying to solve for a while
 
 Said that a state could join if:
+
 1. It started off as a territory 
 2. The territory gained 60,000 inhabitants
 
