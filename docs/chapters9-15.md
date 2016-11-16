@@ -65,6 +65,7 @@ Jefferson opposed completely, and said that only the states could charter banks 
 ## Jay's Treaty 
 
 ### Overview
+This was a treaty that John Jay signed in order to keep peace with Great Britain.
 
 ### Cause
 
@@ -74,47 +75,60 @@ Jefferson opposed completely, and said that only the states could charter banks 
 ## Washington's Farewell
 
 ### Overview
-
-### Cause
+Washington's resignation speech which set several impotant precendents regarding power and international affairs.
 
 ### Effect
+**Two Terms**: Washington only served for two terms, and thus every president except FDR (Fighting WWII needed a consistent voice) also did so.
+
+**No Intertangling Alliances**: Washington argued that we should not make any permanent alliances without nations (looking at you, alliance with France). Washington did however approve *temporary* alliances. This set US Foreign policy until WWII (That war changed a lot)
 
 
-## Alien and Sedton Acts 
+## Alien and Sediton Acts 1798
 
 ### Overview
-
+Laws passed under the John Adams administration that made it a crime to impede government policies or falsey defame its officials (Sedition) and gave the president the power to import or imprison immigrants during times of hostitility (Alien).
 ### Cause
+The Alien Act was passed to give more power with a war against France becoming more and more iminent. In addition, a significant portion of Jeffersonian Democrats were immigrants, and were opposing Adams.
 
+During his administration, Adams was often ridiculed, often by members of his own party (\*ahem\* **Alexander Hamilton**). In addition, at that time, the verbal violence was unrestrained, and many writers (some of them exiled aliens) sought out to destroy Adams. 
 ### Effect
+They increased Jeffersonian resentment to the laws and the Federalist system, especially because the Supreme Court refused to ruled against the laws (as the Court was very federalist).
 
-
-## Kentucky & Vrgna Resolves
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##  XYZ Affar 
+This eventually resulted in the <a href="#virginia-and-kentucky-resolutions-1798-1799">Virginia and Kentucky Resolutions</a>.
+## Virginia and Kentucky Resolutions 1798-1799
 
 ###Overview
-
-###Cause
+Jefferson and Madison, angered by the Alien and Sedition Acts, wrote these resolutions that said that states were the final authority of whether the federal government overstepped its powers granted by the constitution. He said that therefore, if a state believed that the federal government had overpassed its power, it would have the power to **nullify** the law they find offensive. 
 
 ###Effect
+States Rights arguers will go back to this. Also, the concept of nullification will come back in the South Carolinian nullification crisis
 
-
-##  Washngtons Frst Cabnet 
+##  XYZ Affair 
 
 ###Overview
+Incident in France in which Adams sent his diplomats (including John Marshall) to negotiate with French foreign minister Talleyrand about hostilities the US was facing after they had accepted Jay's Treaty. (The French were attacking US Ships and refused to accept the US Ambassador).
 
-###Cause
+However, once Adams' diplomats reached France, French agents X, Y, and Z (identities kept secret) demanded 32 million florins + $250,000 as a bribe to just talk to Talleyrand.
 
 ###Effect
+Negotiations broke down, and the diplomats were treated like heroes for not caving in. The slogan "Millions for defense, but not one cent for tribute" became popular.
 
+Also, Jeffersonian Democrats, who had backed the French, took to the shadows as their Pro-French views suddenly became popular. 
+
+###War Preperations
+After the affair, the government decided to start preparing for war. The Navy Department was created, Marine Corps were reestablished and the nation was about to fall into war, if it wasn't for Adams' wise choice to negotiate more with Talleyrand. At France, the **Convention of 1800** was signed, and the nations remained at peace. If Adams had not signed the treaty and instead went to war, he would have most likely won a second term. However, his willingness to peace likely helped Jefferson when he went to buy Louisiana just three years later.
+
+
+##  Washingtons First Cabnet 
+
+- **John Adams**: Vice President (Not actually part of the cabinet, but he's here)
+- **Alexander Hamilton**: Secretary of the Treasury
+- **Thomas Jefferson**: Secretary of State
+
+No one else matters :P, but here they are anyways:
+
+- **Henry Knox**: Secretary of War (We call this 'Defense' today)
+- **Edmund Randolph**: Attorney General
 
 ##  Bll of Rghts 
 
