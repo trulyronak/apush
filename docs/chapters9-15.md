@@ -24,6 +24,8 @@ Reprentation in Congress should be based on represetntation. This conflicted dir
 ### Effect
 The Great Compromise resulted in a bi-cameral legislature, in which there would be a Senate in which all states have equal representation and a House of Representatives where states would send delegates based on population.
 
+This compromise plan was known as the Connecticut plan.
+
 ## Federalists 
 
 ### Overview
@@ -130,70 +132,78 @@ No one else matters :P, but here they are anyways:
 - **Henry Knox**: Secretary of War (We call this 'Defense' today)
 - **Edmund Randolph**: Attorney General
 
-##  Bll of Rghts 
+##  Bill of Rights 
+
+### Overview
+In order to pass the Constitution, the Federalists promised that a Bill of Rights would be added later. 
+
+James Madison, original author of the Constitution, decided to write the 10 amendments that would become the first 10 amendments of the Constitution and would be called "The Bill of Rights"
+
+##  Judiciary Act of 1789 
 
 ###Overview
+Organized the Supreme Court (John Jay became Chief Justice), and also established the federal district and circuit courts and the office of attorney general.
 
-###Cause
-
-###Effect
-
-
-##  Judcary Act 1789 
+##  Pinckney's Treaty of 1795 
 
 ###Overview
-
+Treaty with Spain that gave the United States free navigation of the Mississippi, warehouse rights at New Orleans, and Western Florida.
 ###Cause
-
-###Effect
-
-
-##  Pnckney Treaty 1795 
-
-###Overview
-
-###Cause
-
-###Effect
+Jay's Treaty.
 
 
 ##Marbury vs Madson 
 
 ###Overview
-
+A court case that decided that the Supreme Court of the United States had the final say on whether an act was constitutional.
 ###Cause
-
+In his last days of the presidency, John Adams passed the Judidicary Act of 1801, which essentially filled the entire Justice branch of the government with Federalists. Jefferson, angry at this, threw the law out. However, William Marbury sued for his commission, and his case went to the Supreme Court. Chief Justice John Marshall, dismissed his case, but explained his ruling saying that the part of the Judiciary Act Marbury was basing his case on was unconstituional. This gave the Supreme Court the power of **judicial review**.
 ###Effect
+Power went to federal government, not the states.
 
-
-##The Jeffersonan "Revoluton of 1800" 
+##The Jeffersonian "Revoluton of 1800" 
 
 ###Overview
+The election of Thomas Jefferson in 1800. 
 
-###Cause
+###Significance
+The first peaceful transition of power in history
 
-###Effect
-
-
-##Lousana Purchase 
+##Lousiana Purchase 
 
 ###Overview
+After Spain ceded Louisiana to France, Americans in the area lost the warehouse rights they gained from Pinckney's treaty, which hurt the frontier farmers who relied on this to make a living. Sensing potential problems (what if Napoleon tried to create an American Empire after Europe?), Jefferson sent Monroe to join Livingston in France to try to buy New Orleans. However, due to the **Hatian Revolution**, Napoleon had lost interest in a North American empire, and due to British pressure on him, Napoleon decided to keep America away from Britain's arms and sell Jefferson not just Louisiana, but the **entire territory of Louisiana**. Monroe and Livingston accepted, needless to say.
 
-###Cause
+###Problems
+While Jefferson liked the purchase, he could not help but feel that he had overstepped his authority as President, as he had only been given authority from Congress to buy the city of New Orleans (though Congress was happy to pay for all of Louisiana).
 
 ###Effect
-
+Jefferson envisioned this new area as the "Valley of Democracy", that would allow for a great agrarian republic. The purchase also showed Washington's idea of avoiding entangling alliances, as Jefferson made the purchase without swearing loyalty to any countries in the process.
 
 ##Embargo Act 1807 
 
 ###Overview
-
-###Cause
+Due to war between Britain and France, both countries began stopping all trade going into the other country. America, which was trying to stay neutral, was losing many merchant ships to both countries, especially Great Britain, which was practicing **impressment** on American sailors and seizing American ships (France did too, not as much). Jefferson, believing that both countries relied heavily on American trade, decided that an embargo would convince both countries into working out a deal to trade with America.
 
 ###Effect
+1. The Embargo failed, and instead nearly destroyed the Northern economy (which completely relied on trade)
+	- This in turn led to the Hartford Convention
+	- Also led to massive tarrifs after the war
+		- That led to the Nullification Crisis (South Carolina)
+2. Macon's Bill #2 
 
+##Macon's Bill #2 
 
-##Macons Bll #2 
+###Overview
+Reopened trade with all countries, but if either France or Britain reopened commercial restrictions, the embargo would renact against that nation. (basically admitted that the US could not survive without either France or Britain)
+
+###Effect
+Napoleon vaguely told America that French restrictions may be removed if Britain removed theirs, which Madison gambled and accepted the note as French repeal and asked for Britain to remove their laws. However, Britain didn't , and the US had no choice but to put an embargo against Britain, thus ending American neutrality. (War)
+
+##War Hawks
+###Overview
+
+##Chesapeake Affair 
 
 ###Overview
 
@@ -202,7 +212,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Chesapeake Affar 
+##Judiciary Act 1801 
 
 ###Overview
 
@@ -211,16 +221,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Judcary Act 1801 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Lews and Clark 
+##Lewis and Clark 
 
 ###Overview
 
@@ -238,7 +239,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Northwest Ordnance of 1787 
+##Northwest Ordinance of 1787 
 
 ###Overview
 
@@ -247,320 +248,61 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##New Jersey Plan Connectcut Plan Ant-Federalsts 
+
+## Johm Marshall
+###McCulloch v Maryland 
+###Dartmouth v Woodward 
+###Cohens v Vrgna
+### Gbbons v Ogden 
+
+##The Monroe Doctrine
+### Overview
+
+### Cause
+
+### Effect
+
+## Daniel Webster
+### Overview
+
+### Cause
+
+### Effect
+
+## The "North America Review"
+### Overview
+
+### Cause
+
+### Effect
+
+## James Monroe 
+### Overview
+
+### Cause
+
+### Effect
+
+##American System 
+### Overview
+
+### Cause
+
+### Effect
+
+##Missouri Compromse 
+### Overview
+
+### Cause
+
+### Effect
+##Era of Good Feelngs 
 
 ###Overview
 
 ###Cause
 
 ###Effect
-
-
-##TecumsehlTenskwatawa Treaty of Ghent Hartford Conventon Henry Clay James Madson Wllam Henry Harrson Battle of New Orleans The War Hawks 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Hartford Conventon Olver Hazard Perry 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Second Bank of the US Tarff of 1816 Panc 1819 McCulloch v Maryland Dartmouth v Woodward Cohens v Vrgna Gbbons v Ogden The Monroe Doctrne Danel Webster The "North Amerca Revew" James Monroe Amercan System Mssour Compromse JOhn Marshall Era of Good Feelngs 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Land Ordnance of 17 85 I
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Shays’ Rebellon
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Vrgna Plan
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Federalsts
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##The Federalst Papers
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Whskey Rebellon
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Hamlton and the Bank of US
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##J ay’s Treaty
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Washngtons Farewell
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Alen and Sedton Acts
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Kentucky 8;; Vrgna Resolves
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##XY Z Affar 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Washngtons Frst Cabnet
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Bll of Rghts
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Judcary Act 1789 I
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Pnckney Treaty 1795 I
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Marbury vs Madson V
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##The J effersonan "Revoluton of 1800"
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Lousana Purchase
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Embargo Act 1807
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Macons Bll #27
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Chesapeake Affar
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Judcary Act 1801
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Lews and Clark
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Non~Intereourse Act
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##NorthWest ordnance of 1787 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##New Jersey Plan 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Connectcut Plan
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Ant—Federalsts
-
-###Overview
-
-###Cause
-
-###Effect
-
 
 ##Tecumseh/Tenskwatawa
 
@@ -589,7 +331,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##HenryClay
+##Henry Clay
 
 ###Overview
 
@@ -607,7 +349,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Wllam Henry Harrson
+##Willam Henry Harrison
 
 ###Overview
 
@@ -634,16 +376,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-## Hartford Conventon 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Olver Hazard Perry
+##Oliver Hazard Perry
 
 ###Overview
 
@@ -660,17 +393,7 @@ No one else matters :P, but here they are anyways:
 
 ###Effect
 
-
-##Tarff of 1 816
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Panc 1819 
+##The "Corrupt Bargain"
 
 ###Overview
 
@@ -679,7 +402,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##McCulloch v Maryland 
+##John Q Adams
 
 ###Overview
 
@@ -688,124 +411,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Dartmouth v Woodward
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Cohens v Vrgna
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-## Gbbons v Ogden
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-## The Monroe Doctrne
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Danel Webster
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##The "North America Review"
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##James Monroe
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Amercan System
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Mssour Compromse
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##John Marshall
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Era of Good Feelngs
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##The "corrupt bargan"
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##John Q Adams I 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Electon of 1828/Jacksonan Revoluton 
+##Election of 1828/Jacksonian Revolution 
 
 ###Overview
 
@@ -832,16 +438,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Martn Van Buren
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Wllam Henry Harrson
+##Martin Van Buren
 
 ###Overview
 
@@ -868,7 +465,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Ant-Masons
+##Anti-Masons
 
 ###Overview
 
@@ -877,7 +474,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-## Sam Houeton
+## Sam Houston
 
 ###Overview
 
@@ -895,7 +492,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Stephen Austn
+##Stephen Austin
 
 ###Overview
 
@@ -913,7 +510,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Whgs 
+##Whigs 
 
 ###Overview
 
@@ -922,7 +519,8 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Tarff of 1842 
+
+##Spoils System
 
 ###Overview
 
@@ -930,50 +528,55 @@ No one else matters :P, but here they are anyways:
 
 ###Effect
 
+##Tarrifs
 
-##Spols System
+###Tariff of 1816
 
-###Overview
+#### Overview
 
-###Cause
+#### Cause
 
-###Effect
+#### Effect
+###Tariff of 1842 
 
+####Overview
 
-##Tarff of Abomnatons 
+####Cause
 
-###Overview
+####Effect
 
-###Cause
+###Tariff of Abominatons 
 
-###Effect
+####Overview
 
+####Cause
 
-##Tarff of 1833  
-
-###Overview
-
-###Cause
-
-###Effect
+####Effect
 
 
-##Panc of 1837 
+###Tariff of 1833  
 
-###Overview
+####Overview
 
-###Cause
+####Cause
 
-###Effect
+####Effect
 
 
-##Danel Webster
+##Panics
+###Panic of 1819 
+#### Overview
 
-###Overview
+#### Cause
 
-###Cause
+#### Effect
+###Panic of 1837 
 
-###Effect
+####Overview
+
+####Cause
+
+####Effect
 
 
 ##John C Calhoun
@@ -994,7 +597,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##Jackson and the Natve Amercans
+##Jackson and the Native Americans
 
 ###Overview
 
@@ -1003,7 +606,7 @@ No one else matters :P, but here they are anyways:
 ###Effect
 
 
-##The Texas Revoluton People And Events
+##The Texas Revolution People And Events
 ###Overview
 
 ###Cause
