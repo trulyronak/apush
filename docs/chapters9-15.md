@@ -288,140 +288,125 @@ get back to this beast
 ### Overview
 Henry Clay's idea of politics.
 Called for:
-1. 
-### Cause
+
+1. A strong protective tarriff
+	- This would allow for eastern manufacturing to florish 
+		- Funds from this would pay for another component
+2. A Network of Roads and Canals
+	- Paid by the tarriff
+	- Would allow the transportation of food and raw materials from the South and the West and the North and the East
+	- Focused in the Ohio Valley, this would knitt the country econmically and politically
+3. A Strong Banking System
+	- This would provide easy and abundant credit 
 
 ### Effect
+This entire system was eventually implemented, though all seperately and not all as one bill.
 
-##Missouri Compromse 
-### Overview
-
-### Cause
-
-### Effect
 ##Era of Good Feelngs 
 
-###Overview
+###Why So Happy?
+Rising nationalism after the War of 1812 (the Americans believed they had defeated the British yet again) led to a 'happy era of good feelings'. Also, with only one party left, this left Monroe and the Republicans to one-party rule.
+###Exceptions
+The issue of tariffs, the bank of the US, internal immprovements, and the sale of public lands was hotly debated over of. Also, sectionalism was increasing and the debate of slavery was reentering the public forum.
 
-###Cause
-
-###Effect
-
-##Tecumseh/Tenskwatawa
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Treaty of Ghent
+##Tecumseh and Tenskwatawa
 
 ###Overview
-
-###Cause
+They were two Shawnee brothers, also known as Tecumseh and the Prophet, who believed that the time had come to fight the Americans. They created a confederacy of all tribes east of the Mississippi and attacked. In the **Battle of Tippecanoe**, the Prophet foolishly attacked Harrison's army, and lost their settlement, resultin in the Prophet being discredited. Tecumseh allied with the British and fought in the War of 1812, but died at the Battle of the Thames in 1813. 
 
 ###Effect
+The fall of Tecumseh meant the end of an Indian Confederacy.
 
-
-##Hartford Conventon
+##Treaty of Ghent 1814
 
 ###Overview
-
+Essentially an armistice between Britain and the US. 
 ###Cause
-
+Britain was preoccupied with the Congress of Vienna, and didn't want to deal with the US. 
 ###Effect
+The Americans believed that they had 'won' the war, which led to massive nationalism, see the <a href="#era-of-good-feelings">Era of Good Feelings</a> for more information
 
+
+##Hartford Conventon 1814 - 1815
+
+###Overview
+Frustrated by embargoes by the US government, the states of Massachusetts, Connecticut, and Rhode Island sent full representation to a convention at Hartford. New Hampshire and Vermont sent partial representation. The men met in complete secrecy and wrote a list of all their grievances and a few delegants called for seccession. The grievances demanded financial assistance to compensate for lost trade and a Constitutional amendment requiring a 2/3 vote to pass an embargo. Delegates also wished to remove the 3/5 clause of the Constitution, limit Presidents to a single term, and prohibit the election of two successive presidents from the same states (All but one president (Adams) had been from Virginia). However before the grievances were delivered, the Treaty of Ghent was signed, and so the grievances were never considered.
+
+###Significance
+
+Reflected a Federalist fear that New England was alling to the agrarian South and West. Also marks first attempt at seccession.
 
 ##Henry Clay
 
-###Overview
-
-###Cause
-
-###Effect
+###What he did
 
 
 ##James Madson
 
-###Overview
-
-###Cause
-
-###Effect
-
+###What he did
 
 ##Willam Henry Harrison
 
 ###Overview
-
-###Cause
-
-###Effect
-
+Became a war hero after fighting Indian forces at the Battle of Tippecanoe in 1811. He used his popularity to become president in 1841, but he died after a month, leaving his disliked vice president, John Tyler, to become president.
 
 ##Battle of New Orleans
 
 ###Overview
-
-###Cause
-
-###Effect
-
-
-## The War Hawks
-
-###Overview
-
-###Cause
+The biggest victory for the US in the War of 1812. The battle featured Andrew Jackson as a war hero, who was praised for dealing the most devastating defeat of the entire war. 
 
 ###Effect
-
+All though the battle didn't matter (occured after the Treaty of Ghent was signed), the battle made Andrew Jackson a national hero and unleashed a wave of nationalism and confidence.
 
 ##Oliver Hazard Perry
 
 ###Overview
+American naval officer who built a small fleet of ships on Lake Erie and captured a British fleet, thus keeping American control of the lake. His slogan, "We have met the enemy and they are ours" breath a new life into the American cause in the war.
+##War of 1812
+###Impact
+Showed that the US would go to war to resist grievous wrongs. Other nations gained a new respect for America'a fighting prowess, and naval officers like Perry and Macdonough were respected more. American emmisaries abroad were treated with more respect. However the war's embargo seriously hurt the New England economy and increased sectionalism between the New England Federalists, and the entire party was destroyed.
 
-###Cause
 
-###Effect
+##Missouri Compromse 1820
+### Overview
+Negotiated by Henry Clay, this compromise kept the balance of power between the North and the South and remained in use until 1854.
+### Terms
+1. Admitted Missouri as a slave state
+2. Created the state of Maine from Massachusets to keep the balance in the Senate
+3. Prohibited all slavery in the future above the 36° 30' line (the southern boundary of Misouri)
 
-
-## Second Bank of the US 
-
-###Overview
-
-###Cause
-
-###Effect
+### Effect
+Preserved the shaky compact of the states, but only ducked the question of the South's **pelicular institution** (term for slavery).
 
 ##The "Corrupt Bargain"
 
 ###Overview
-
-###Cause
-
+Controversial election in which Andrew Jackson won more votes (popular and electoral) but didn't have a majority to win. Henry Clay, the speaker of the house, disliking Jackson, got the House to support John Quincy Adams. Because he was named the new secretary of state shortly after, many believed that a corrupt bargain was taken.
 ###Effect
+Led to Adams losing trust and failing in his second run for president.
 
-
-##John Q Adams
+##John Quincy Adams
 
 ###Overview
+A brilliant Secretary of State under Monroe, ineffective President, and influential Congressman.
 
-###Cause
+###Impact
 
-###Effect
-
+- Wrote Monroe Doctrine
+- Shaped US Foreign Policy
+- Negotiated Adams-Onis Treaty of 1819 (Florida Purchase Treaty)
+- Outspoken in his opposition to slavery
 
 ##Election of 1828/Jacksonian Revolution 
 
 ###Overview
+The overwhelming election of Andrew Jackson in 1828.
 
-###Cause
+###Importance
+Called the "Jacksonian Revolution" because of the high voter turnout from people who recently gained the right to vote (poorer people) which was reflected in the 95 electoral vote landslide Jackson won by.
 
-###Effect
-
+###The Spoils System
+Upon taking office, Jackson replaced most officals with new ones from his new party. This led to some inefficiency, as some qualified officials were booted for incapable, yet loyal, counterparts.
 
 ##Nicolas Biddle
 
@@ -431,6 +416,13 @@ Called for:
 
 ###Effect
 
+## Second Bank of the US 
+
+###Overview
+
+###Cause
+
+###Effect
 
 ##Electon 1832
 
