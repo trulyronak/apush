@@ -411,28 +411,32 @@ Upon taking office, Jackson replaced most officals with new ones from his new pa
 ##Nicolas Biddle
 
 ###Overview
+The president of the Bank of the United States. He held an immense (many people believed unconstitutional) amount of power over the financial affairs of the US.
 
-###Cause
-
-###Effect
+He was immensely hated, as his bank's very existence to some seemed to sin against the idea of American democracy. His bank also had much opposition in the West due to foreclosures on many western farms. The bank prioritized profit over public service.	
 
 ## Second Bank of the US 
 
 ###Overview
+Part of Henry Clay's American System. It was submitted for renewal under the Jackson Administration by Henry Clay (in order to make it an election issue) but it was rejected by Jackson, who declared the bill "unconstitutional". By doing so, he vastly amplified the power of the presidency by regarding the executive branch as the most powerful branch of the government.
 
-###Cause
+###After Removing the bank
 
-###Effect
 
-##Electon 1832
+##Election 1832
 
 ###Overview
+Featuring the entrance of a third party, the <a href="#The-Anti-Masiconic-Party">Anti-Masonic</a> party, the election was won by a large margin by Andrew Jackson.
 
-###Cause
+###Precendents
 
-###Effect
+1. The calling of national nominating conventions
+2. Adopting formal platforms, publicizing their positions on the issues
 
+##The Anti-Masiconic Party
 
+###Overview
+Appealed to American suspicions of secret societies (which Americans believed to be reserved to the privledged). However Jackson himself was a Mason (and publicized it) and thus the party was also an Anti-Jacksonian Party
 ##Martin Van Buren
 
 ###Overview
@@ -459,14 +463,6 @@ Upon taking office, Jackson replaced most officals with new ones from his new pa
 
 ###Effect
 
-
-##Anti-Masons
-
-###Overview
-
-###Cause
-
-###Effect
 
 
 ## Sam Houston
