@@ -203,90 +203,92 @@ Napoleon vaguely told America that French restrictions may be removed if Britain
 
 ##War Hawks
 ###Overview
+Young men who sought war with Britain. They were frustrated that Britain was hurting/impressing American sailors.
 
-##Chesapeake Affair 
+They also wanted to wipe out the Indians as they were a threat to the pioneer settlers who were migrating west.
+
+##Chesapeake Affair 1807
 
 ###Overview
-
-###Cause
-
+Incident where a British captain demanded the surrender of four *alleged* deserters after stopping a US frigate, *The Chesapeake*. The American captain refused, and the the British warship fired attacks at the ship, killing three Americans and wounding 18 others, and the British took the four deserters away.
 ###Effect
-
+The people of the US' anger against Britain spiked, and a roar of national wrath occured, and people started calling for war.
 
 ##Judiciary Act 1801 
 
 ###Overview
-
-###Cause
-
-###Effect
-
+Created 16 new judgeships and other federal offices. Seen as a last-ditch grab of power of Adams. Jefferson threw the law out, which lead to William Marbury lawsuit. Which led to <a href="marbury-vs-madison">Marbury vs Madison</a>
 
 ##Lewis and Clark 
 
 ###Overview
-
-###Cause
+Two explorers employed by Thomas Jefferson to explore the newly purchased Louisiana Territory.
 
 ###Effect
-
+They went further than the Louisiana territory, and found the west coast. They also documented their travels extensively, discovered many new plant and animal species, and created a map of the new area.
 
 ##Non-Intercourse Act 
 
 ###Overview
-
-###Cause
-
+Formally reopened trade with all foreign nations **except** France and Britain (the two most important).
 ###Effect
-
+As a result of this and the 1807 Embargo Act, the New England Yankees were left with no option but to reopen newfactories and open new ones, thus creating the foundations of modern America's industrial might.
 
 ##Northwest Ordinance of 1787 
 
 ###Overview
-
+Created the Northwest territory.
 ###Cause
+It established the precedent by which the Federal government would be sovereign and expand westward with the admission of new states.
 
-###Effect
-
-
-
-## Johm Marshall
+## John Marshall
+###Biography
+John Marshall was a strong federalist and the fourth Chief Justice of the Supreme Court of the United States. He kept the ideals behind Federalism alive and well even when the Federalist Party died out. With **Marbury vs Madison**, he set the precendent of Judicial Review. In the below court cases, you will learn about the other precendents he set.
 ###McCulloch v Maryland 
-###Dartmouth v Woodward 
-###Cohens v Vrgna
-### Gbbons v Ogden 
+In this suit, the state of Maryland tried to destroy a branch of the Bank of the US by imposing a tax on its notes. Marshall declared the bank constituional and that Maryland did not have the right to tax the bank. He argued **that the power to tax involves the power to destroy** and **that a power to create implies a power to preserve**. 
 
+This set the doctrine of **loose construction**, the idea that powers not explicitly stated in the Constitution belong to the Federal government.
+
+Marshall also said that the Bank cannot pay taxes because **States do not supercede the Federal Government**, thus saying that **the federal government had more power than state governments**
+
+###Dartmouth v Woodward 
+The state of New Hampshire had decided to revoke Darthmouth College's charter (given by King George III in 1769). Marshall said that the original charter must stand, and that the Constituion protected contracts from state encroachments. This protected buisness enterprise from state domination, but it also enabled charter corporations to escape public control.
+###Cohens v Virgnia
+Two brothers were arrested for illegally selling lottery tickets, and while Virginia still won, Marshall used the case to asert that **The Supreme Court had the right to review decisions of State Supreme Courts**. 
+### Gibbons v Ogden 
+The State of New York had tried to grant a monopoly of waterborne commerce beween NY and NJ, but Marshall reminded NY that control of interstate commerce remained with Congress alone.
 ##The Monroe Doctrine
 ### Overview
+Written by **John Quincy Adams** and **James Monroe**, it said argued two features: Noncolonization and Nonintervention
 
-### Cause
+####Noncolonization
+- Said that the era of colonization in America was over
+- No more countries could come to the Americas to colonize
+	- Partly directed to the Russians in the Northwest coming down from Alaska
 
-### Effect
+####Nonintervention 
+- Told the monarchs of Europe to keep their monarchy out of their hemisphere/ the Americas
+	- Said that the US would not intervene in the Greek war of independence
 
 ## Daniel Webster
 ### Overview
-
-### Cause
-
-### Effect
-
+261
+A strong federalist and friend of John Marshall. He was famous for challenging states rights and nullification. He was also a strong supporter of the Bank of the US.
 ## The "North America Review"
 ### Overview
-
-### Cause
-
-### Effect
-
+A highly intellectual magazie that began publication in 1815, showed how American produced materials were increasing after the War of 1812.
 ## James Monroe 
 ### Overview
-
+get back to this beast
 ### Cause
 
 ### Effect
 
 ##American System 
 ### Overview
-
+Henry Clay's idea of politics.
+Called for:
+1. 
 ### Cause
 
 ### Effect
