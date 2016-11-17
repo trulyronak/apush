@@ -189,7 +189,7 @@ Due to war between Britain and France, both countries began stopping all trade g
 ###Effect
 1. The Embargo failed, and instead nearly destroyed the Northern economy (which completely relied on trade)
 	- This in turn led to the Hartford Convention
-	- Also led to massive tarrifs after the war
+	- Also led to massive ts after the war
 		- That led to the Nullification Crisis (South Carolina)
 2. Macon's Bill #2 
 
@@ -277,23 +277,17 @@ A strong federalist and friend of John Marshall. He was famous for challenging s
 ## The "North America Review"
 ### Overview
 A highly intellectual magazie that began publication in 1815, showed how American produced materials were increasing after the War of 1812.
-## James Monroe 
-### Overview
-get back to this beast
-### Cause
-
-### Effect
 
 ##American System 
 ### Overview
 Henry Clay's idea of politics.
 Called for:
 
-1. A strong protective tarriff
+1. A strong protective tarifff
 	- This would allow for eastern manufacturing to florish 
 		- Funds from this would pay for another component
 2. A Network of Roads and Canals
-	- Paid by the tarriff
+	- Paid by the tarifff
 	- Would allow the transportation of food and raw materials from the South and the West and the North and the East
 	- Focused in the Ohio Valley, this would knitt the country econmically and politically
 3. A Strong Banking System
@@ -420,10 +414,57 @@ He was immensely hated, as his bank's very existence to some seemed to sin again
 ###Overview
 Part of Henry Clay's American System. It was submitted for renewal under the Jackson Administration by Henry Clay (in order to make it an election issue) but it was rejected by Jackson, who declared the bill "unconstitutional". By doing so, he vastly amplified the power of the presidency by regarding the executive branch as the most powerful branch of the government.
 
-###After Removing the bank
+###Andrew Jackson Removes the Bank
+In 1833, Jackson decides not just to wait for the Bank to die in 1836, but to instead destroy it. He believed that he had been given a mandate from his voters for its complete exterminiation. 
 
+He started by removing federal deposits from the bank, it order to bleed the bank dry. His cabinet, advising him not too, was reshuffled around until Jackson found a Secretary of the Treasury who was willing to do what Jackson asked. 
+However once the Bank completely died, it left a financial vaccum in the US Ecnonmy and launched a lurching cycle of booms and busts. SUrplus funds were placed in several state banks called **pet banks**. These pet banks and smaller 'wildcat' banks - which were very informal, often just chairs and money in a room - flooded the economy with new paper money. Jackson tried to reign in the economy with the **Specie Circular**, which required that all public lands be purchased with "hard" money (metallic). This destroyed the speculative boom, leading to the Panic of 1837.
 
-##Election 1832
+##Tariffs
+
+###tariff of 1816
+
+#### Overview
+The first tariff in American history instituted more protection first, then revenue.
+#### Cause
+After the War of 1812, British competitors dumped goods on the US, cutting their prices in half in an effort to destroy American factories as they were being born. The tariffs, passed as part of Clay's American System, were passed to protect the new industry.
+
+###Tariff of 1828 / Tariff of Abominatons 
+
+####Overview
+Passed in 1828, this tariff was passed again to help Northern industry. However this one was promoted by Ardent Jacksonites, expecting the bill to be defeated, which would hurt Adams during his presidency. However, it passed, leaving Jackson to deal with it.
+
+####Effect
+Southerners were particularly outraged by this tariff, and labeled it, the "Tariff of Abominations". However, the South was frustrated that the rest of America was doing well economically and they were falling on hard times, leaving the tariff as a scapegoat. Additionally, the South was worried that Congress would soon pass a bill prohibiting slavery, and the South wanted to test the theory of **nullification**, that is, the idea that States have the right to nullify a federal law. This took effect in the **Nullification Crisis**
+
+###Nullification Crisis
+
+###Overview
+The South Carolina legislature published a pamplet, called *The South Carolina Exposition*. Secrety written by **John C. Calhoun**, the Vice President of the United States, the pamphlet denounced the tariff as unjust and unconstitutional. It declared that states should declare it null and void within their borders, or **nullify** the law.
+###Effect
+At first, South Carolina was unable to pass the nullification vote, which required 2/3 approval. However with Congress' new Tariff of 1832, which had taken some of the "abominations", the Southerners were unsatisfied. The state legislature called for a special convention, and the delegates called for the tariff to be null and void within South Carolina. 
+
+###Jackson's Response
+Angered at South Carolina's definance, Jackson dispatched naval and military reinforcements and prepared a sizable army. 
+
+###Henry Clay's Compromise tariff of 1833
+
+####Overview
+Although he supported tariffs, Clay didn't want Jackson to become more popular by defeating South Carolina. Thus, he backed the bill that would gradually reduce the Tariff of 1832 by 10% over the period of 8 years. 
+
+Congress at the same time also passed the **Force Bill**, which gave the president the ability to use the army and navy to collect federal tariff duties.
+
+####Popularity
+The South favored it while New England and the middle states did not.
+####Outcome
+The South Carolinians, recieving no more support from other states, took this bill as an opportunity to stop the nullification process. The Carolinians had another convention, where they repealed their previous nullification, and nullified the Force Bill as a last act of defiance.
+
+##Jackson and the Native Americans
+
+###Overview
+In 1828, despite the Cherokee tribe "civilizing themselves" in the way of whites, the Georgian legislature declared the Cheokee council illegal and asserted its own jurisdiction of all Indian lands and affairs. The Cherokee appealed this in the Supreme Court, which upheld their rights three times. However, Jackson refused to accept their decision, and in 1830 got the **Indian Removal Act** passed. The act essentially forced all Indian tribes easy of the Mississippi to move into present day Oklahoma. Over the following decade, countless Native Americans were forced to march on what was known as the Trail of Teras, where thousands died. The **Bureau of Indian Affaris** was established in 1836, but they quickly went back on their promises as well, and moved the Indians again.
+
+##Election of 1832
 
 ###Overview
 Featuring the entrance of a third party, the <a href="#The-Anti-Masiconic-Party">Anti-Masonic</a> party, the election was won by a large margin by Andrew Jackson.
@@ -436,170 +477,90 @@ Featuring the entrance of a third party, the <a href="#The-Anti-Masiconic-Party"
 ##The Anti-Masiconic Party
 
 ###Overview
-Appealed to American suspicions of secret societies (which Americans believed to be reserved to the privledged). However Jackson himself was a Mason (and publicized it) and thus the party was also an Anti-Jacksonian Party
+Appealed to American suspicions of secret societies (which Americans believed to be reserved to the privledged). However Jackson himself was a Mason (and publicized it) and thus the party was also an Anti-Jacksonian Party.
+
 ##Martin Van Buren
 
 ###Overview
+Chosen by Andrew Jackson as the nominee (due to the Petticoat Affair), he ran a successful campaign for president against the to-be-unified Whig party
 
-###Cause
+##Election of 1836
 
-###Effect
-
+###Overview
+The newly formed whig party ran 3 candidates against the Democrats, who only ran one (Martin Van Buren). This failed on them, and Buren easily won.
 
 ##Electon of 1840
 
 ###Overview
-
-###Cause
+The Democratic party renominated Martin Van Buren, and the Whig party, now unified, united William Henry Harrison, hero from the Battle of Tippecanoe. He ran as "the common man" against "the corrupt aristocrat" of "Martin Van Ruin". Harrison won.
 
 ###Effect
+The election marked a turn in what was considered popular in American democracy. Aristocracy was now considered unrespectable, and many politicians publicly apologized for being unable to claim a humble birthplace.
+
+The election also showed the change to a two party system. 
+
+###Democrats
+1. State's Rights
+2. Federal Restraint in social and economic affairs
+
+###Whigs
+1. A renewed national bank
+2. Protective tariffs
+3. Public schools
+4. (Starting to believe in this) moral reforms like prohibition and abolition
 
 
-##Electon of 1824
+
+##Black Hawk War 1832
 
 ###Overview
-
-###Cause
-
-###Effect
-
-
-
-## Sam Houston
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Black Hawk War
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Stephen Austin
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Electon of 1836
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Whigs 
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-
-##Spoils System
-
-###Overview
-
-###Cause
-
-###Effect
-
-##Tarrifs
-
-###Tariff of 1816
-
-#### Overview
-
-#### Cause
-
-#### Effect
-###Tariff of 1842 
-
-####Overview
-
-####Cause
-
-####Effect
-
-###Tariff of Abominatons 
-
-####Overview
-
-####Cause
-
-####Effect
-
-
-###Tariff of 1833  
-
-####Overview
-
-####Cause
-
-####Effect
+Angry about broken government promises and the Trail of Tears, the Sauk and Fox braves from Illinois and Wisconsin were led by **Black Hawk** in a war. They were defeated by Lietenant Jefferson Davis of Mississippi (Future President of the Confederacy) and by volunteers, notably Captain Abraham Lincoln (Future President of America).
 
 
 ##Panics
+
+!!! note "Panic = Recession"
+
 ###Panic of 1819 
-#### Overview
 
 #### Cause
+- Overspeculation in frontier lands
 
 #### Effect
+- The Bank of the US forced speculative ("wildcat") banks to foreclose on countless farms
+	- This greatly angered the western debtor (this would lead them to back Jackson)
+		- In addition, the inhuman imprisonment of debtors angered Westerners more, and families in the West went on hard times, sowing seeds of Jacksonian democracy
+
 ###Panic of 1837 
 
-####Overview
 
 ####Cause
+- Overspeculation in the West
+- Failed Jacksonian Finance
+- Farming Failures (The Hessian fly destroyed the wheat crop)
+- 2 British banks fell, which resulted in British investors calling in foreign loans
 
 ####Effect
+- The collapse of hundreds of banks
+	- Some pet banks also fell, with them several million in government funds
+- Factories closed
 
+####The Whig Party's Solution
+- Expansion of Bank Credit
+- Higher Tariffs
+- Internal Improvements through Subsidies
 
-##John C Calhoun
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Jackson and the Bank of the US
-
-###Overview
-
-###Cause
-
-###Effect
-
-
-##Jackson and the Native Americans
-
-###Overview
-
-###Cause
-
-###Effect
-
+####Martin Van Buren's Solution
+- **Divorce Bill**
+	- Believed that problem came from injecting federal funds in private banks
+	- Thought that the government should be "divorced" from banking completely
+	- The bill would establish an independent treasury, where funds would be save, but no credit would be given 
+	- The bill lasted one year, but was reenacted in 1846 until the Civil War when Republicans created a network of national banks
 
 ##The Texas Revolution People And Events
 ###Overview
+Overtime, wanting more land, Americans migrated to Texas.  However, they actively defied Mexican laws when they were there, such as the prohibition on slavery. When Stephen Austin went to discuss differences at Mexico City, he was jailed for eight months. This led to a full on rebellion, with Sam Housin as the commander-in-chief.
 
-###Cause
+After some fighting, the Texans were able to capture Santa Anna and got him to agree on Texan independence. However, once he escaped, he said the agreement was illegal because he signed the document under duress. 
 
-###Effect
+Due to the face that Texas was not techinically free from Mexico, the US had its hands tied. Therefore, they did not accept Texas as a state, but instead recognized its independence. Texas would eventually become part of the union in 1845 by John Tyler.

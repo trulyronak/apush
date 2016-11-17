@@ -136,14 +136,6 @@ In 1686, royal authority created the Dominion of New England to promote efficien
 ###Effect
 As a result of these laws, colonists turned to smuggling and colonists began to share similar sentiments against England.
 
-
-## Great Puritan Migration
-
-###Overview
-Most likely a typo for great "english" migration.
-- look into that
-
-
 ##The Half-Way Covenant and the Salem Witch Trials 1660s
 
 ###Overview
