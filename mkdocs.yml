@@ -7,8 +7,8 @@ site_url: 'https://ronakshah.net/apush'
 
 pages:
 - Home: index.md
-- Chapter 1 Test Review:  chapters1-8.md
-- Chapter 2 Test Review: chapters9-15.md
+- Unit 1 Test Review:  chapters1-8.md
+- Unit 2 Test Review: chapters9-15.md
 #- Chapter 15: chapter15.md
 # Repository
 #repo_name: 'GitHub'
