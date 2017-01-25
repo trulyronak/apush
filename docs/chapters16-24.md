@@ -144,25 +144,86 @@ The 11th President of the United States
 
 
 ### Overview
-
-### Cause
+The **Wilmot Proviso** was an amendment proposed by Rep. David Wilmot (PA) that would ban slavery from ever existing in any of the territory taken from Mexico.
 
 ### Effect
+* Southern delegates, not wanting to lose potential slave states, stopped the amendment. 
 
+* The Proviso came to symbolize the issue of slavery in the new territories
 
 
 ## Free Soil Party
 
 
 ### Overview
+During the election of 1848, antislavery men in the North who distrusted both Zachary Taylor and Lewis Cass on their stances on slavery, formed the **Free Soil Party**.
+### Platform
 
-### Cause
+* In full support of the Wilmot Proviso
+* Against slavery in the territories
+* Advocated federal aid for internal improvements
+* Urged free governmental homesteads for settles
+* Condemened slavery for taking jobs away from poor free white workers
+
+### Backers
+Attracted: 
+
+* Industrialists annoyed at Polk's reduction of protective tariffs
+* Democrats resentful that Polk settled for only part of Oregon but all of Texas 
+	* Which had suggested the dominance of southerners in the Democratic Party
+* Northerners who hated African Americans and who didn't want to share the territories with African Americans
+* Abolitionist Whigs
+
+### 1848 Election
+The Free Soil Party nominated former President Martin Van Buren
 
 ### Effect
-
+The Free Soil Party foreshadowed the creation of the Republican Party 6 years later.
 
 
 ## Zachary Taylor
+
+
+### Overview
+A famous general in the Mexican American War, Zachary Taylor was the 12th President of the United States. He was nominated by the Whig Party in 1848.
+
+### Effect
+After his death (illness), his Vice President Millard Fillmore approved the Compromise of 1850.
+
+
+
+## Millard Fillmore
+
+
+### Overview
+Millard Fillmore was the 13th President of the United States. He ascended to the Presidency in 1850, after Zachary Taylor's death. He was also the last Whig to ever be in the White House.
+
+### Effect
+* Approved the Compromise of 1850
+
+### Later Years
+Received the Nativist Know-Nothing Party's nomination for President in 1856. 
+
+
+## Compromise of 1850
+
+### Overview
+Passed in 1850 after Millard Fillmore ascension to the Presidency, the bill helped to keep the peace until the 1854 Kansas-Nebraska Act. 
+### Negotiations
+* In 1850, California's request for admission threatened to overturn the balance of power the South had been keeping. 
+* Clay, Douglas, Webster, and Calhoun all met together to work out a proposal
+* Webster's famous **Secenth of March Speech** helped sway public opinion in favor of the bill (though it alienated him with the Free Soilers
+
+### Terms
+* A new, stronger Fugitive Slave Law
+* California admitted as a free state
+* The remainder of the Mexican session is opened to popular sovertinety
+* Territory disputed by TX and NM to go to NM, but TX gets $10 Million
+* Abolition of the slave **trade** in Washington, DC (not slavery itself)
+
+
+
+## Fugitive Slave Law
 
 
 ### Overview
@@ -170,6 +231,7 @@ The 11th President of the United States
 ### Cause
 
 ### Effect
+
 
 
 
@@ -192,40 +254,6 @@ The 11th President of the United States
 ### Cause
 
 ### Effect
-
-
-
-## Millard Fillmore
-
-
-### Overview
-
-### Cause
-
-### Effect
-
-
-
-## Compromise of 1850
-
-
-### Overview
-
-### Cause
-
-### Effect
-
-
-
-## Fugitive Slave Law
-
-
-### Overview
-
-### Cause
-
-### Effect
-
 
 
 ## Franklin Pierce
