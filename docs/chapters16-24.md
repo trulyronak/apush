@@ -59,88 +59,88 @@ A free black woman who fought for emancipation and women's rights
 
 ###The Southern Antislavery Movement
 * During the 1820s, there were actually more antislavery societies in the South than in the North.
-	* However after the Virginia legislature defeated vaarious emanicpation proposals and ended the slavery debate in 1831-32, southern abolitionism was silenced
+	* However after the Virginia legislature defeated various emancipation proposals and ended the slavery debate in 1831-32, southern abolitionism was silenced
 		* Resulted in the states tightening their slave codes and prohibiting any form of emancipation 
-		* Many feared slave uprisings after Nat Turner's rebellion and Hatian slave revolts
+		* Many feared slave uprisings after Nat Turner's rebellion and Haitian slave revolts
 
 ## Nat Turner
 
+In 1831, Nat Turner, a black preacher led an uprising that killed around 60 Virginians, but his uprising ultimately failed.
 
-### Overview
-
-### Cause
-
-### Effect
-
+ * It led to increased fear within the South of a slave rebellion
+	 * Southerners thought that **Nat Turner's Rebellion** was foreshadowing a similar scale event like the 1791-1803 Haitian Slave rebellion
+	 * Led to increased fear within the South and the final debate over slavery (which turned to support slavery) in Virginia (See Above)
+		 * Resulted in tightened Black Codes
 
 
 ## John Tyler
 
-
 ### Overview
 
-### Cause
+The 10th President of the United States
 
-### Effect
+* Tyler acended to the Presidency by accident - However since William Henry Harrison (Whig) died 4 weeks after taking office, Tyler (with Democratic beliefs) became President
+* Tyler found that he had no friends, within the Democrats or the Whigs
+### Accomplishments
 
+* The Tariff of 1842
+	* After vetoing the bill several times, Tyler finally signed a 32% Tariff
+* The Annexation of Texas
+	* Wanting to have a notable legacy, Tyler took Polk's victory (who campaigned on Manifest Destiny) as a mandate, and he arranged for a joint resolution to approve the annexation of Texas in 1845
 
-
-## Aroostook War
-
-
-### Overview
-
-### Cause
-
-### Effect
-
-
-
-## James Polk
-
-
-### Overview
-
-### Cause
-
-### Effect
-
-
+## Aroostook War (1840s)
+* Britain wished to build a road westward from Halifax to Quebec (for defense against the Americans)
+	* The proposed route ran through disputed territory
+		* Lumberjacks fought (with assistance from local militia) in the Aroostook Valley and the clash was dubbed the **Aroostook War**
+		* The war threatened to turn into a full scale war (at the time, anti-british sentiment was high)
+		* In 1842, the London Foreign Office sent Lord Ashburton (not a professional diplomat) who established good relations with Secretary of State Daniel Webster
+			* Through Negotiations, they settled
+				* The *Caroline* affair (when an American ship sending supplies to help a Canadian rebellion was attacked)
+				* The disputed territory:
+					* Britain got less land, but the land necessary for their route
+					* America got more land, and extended the US-Canadian boundary farther west, which was later found to have the priceless Mesabi iron ore of Minnesota
 
 ## Manifest Destiny
 
+### Overview
+- Manifest Destiny was the belief that God had destined the American people to control the entire continent (from sea to shining sea) and spread the ideals of Republicanism
+- Became extremely popular in the 1840s and 1850s, and led to the election of James K. Polk, the Annexation of Texas, and the Mexican American War
+
+## James Polk
 
 ### Overview
+The 11th President of the United States
 
-### Cause
+* Polk was elected on a campaign of Manifest Destiny
+### Accomplishments
+
+* Walker Tariff of 1846
+	* Lowered tariff from 32% to 25%
+		* Due to a huge boom and heavy imports, it generated a lot of revenue
+* The Mexican American War (below)
+
+##Mexican American War
+* Polk first offered Mexico $25 Million to buy California and territory to the east of it (almost half of Mexico's territory
+	* Offended that Polk would treat a democratic country in this way, Mexico staunchly refused, leaving Polk to look to war
+* Polk provoked a war with Mexico by sending troops into the disputed territory in Texas
+	* After Mexican troops attacked the American troops, Polk used this to ask Congress to declare war on Mexico
+	* The war ended on February 2, 1848 with the Treaty of Guadalupe Hidalgo
 
 ### Effect
 
+* Terms of the Treaty:
+	* America would pay $15 million for California, Texas, and the land in between (one-half of Mexico)
+* The war trained many people who would fight in the Civil War and attempt the Presidency
+	* Captain John C. Fremont (1856 Presidential Candidate)
+		* General Zachary Taylor (12th President of the US)
+		* General Winfield Scott (1852 Presidential Candidate)
+		* Captain Robert E. Lee (Commander of the Confederate Forces)
+		* Lieutenant Ulysses S. Grant (Commander of the Union Forces and the 18th President of the US)
+	* The war also proved the effectiveness of West Point Military Academy 
+* Reopened the question of slavery (see Wilmot Proviso)
 
 
 ## Wilmot Proviso
-
-
-### Overview
-
-### Cause
-
-### Effect
-
-
-
-## Mexican/American War
-
-
-### Overview
-
-### Cause
-
-### Effect
-
-
-
-## Treaty of Guadalupe Hidalgo
 
 
 ### Overview
@@ -433,5 +433,4 @@ A free black woman who fought for emancipation and women's rights
 ### Cause
 
 ### Effect
-
 
