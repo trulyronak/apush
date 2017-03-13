@@ -1,4 +1,3 @@
-
 # Project information
 site_name: 'APUSH Study Guide'
 site_description: 'A study guide for AP United States History'
@@ -10,8 +9,8 @@ pages:
 - Unit 1 Test Review:  chapters1-8.md
 - Unit 2 Test Review: chapters9-15.md
 - Unit 3 Test Review: chapters16-24.md
+- Unit 4 Test Review: chapters25-29.md
 
-#- Chapter 15: chapter15.md
 # Repository
 #repo_name: 'GitHub'
 #repo_url: 'https://github.com/ronakdev/apush'
