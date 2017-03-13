@@ -1,0 +1,42 @@
+# Project information
+site_name: 'APUSH Study Guide'
+site_description: 'A study guide for AP United States History'
+site_author: 'Ronak Shah'
+site_url: 'https://ronakshah.net/apush'
+
+pages:
+- Home: index.md
+- Unit 1 Test Review:  chapters1-8.md
+- Unit 2 Test Review: chapters9-15.md
+- Unit 3 Test Review: chapters16-24.md
+- Unit 4 Test Review: chapters25-29.md
+
+# Repository
+#repo_name: 'GitHub'
+#repo_url: 'https://github.com/ronakdev/apush'
+
+# Copyright
+copyright: © Ronak Shah
+
+# Documentation and theme
+theme: 'material'
+
+# Options
+extra_javascript: ['/javascripts/jquery.js', '/javascripts/scroll.js']
+extra:
+  palette:
+    primary: 'blue red'
+    accent: 'light blue'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  i18n:
+    prev: 'Previous'
+    next: 'Next'
+  author:
+    github: 'ronakdev'
+
+
+# Extensions
+markdown_extensions:
+  - admonition
