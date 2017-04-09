@@ -6,9 +6,9 @@ site_url: 'https://ronakshah.net/apush'
 
 pages:
 - Home: index.md
-- Unit 1 Test Review:  chapters1-8.md
-- Unit 2 Test Review: chapters9-15.md
-- Unit 3 Test Review: chapters16-24.md
+- 1600 - 1783: years1600-1783.md
+- 1783 - 1840: years1783-1840.md
+- 1840 - 1860: years1840-1860.md
 - Unit 4 Test Review: chapters25-29.md
 
 # Repository
